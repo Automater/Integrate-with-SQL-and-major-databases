@@ -210,7 +210,7 @@ The full suite of conversion and sync tools can be found here: http://www.dbconv
 <ul>
 <li><strong>Convert</strong> - Generally, database conversion means the process of converting data stored in one format to another format.  All data from the table in source database will be totally copied to the empty table in destination database without a loss of accuracy.  See example below:</li>
 </ul>
-![Alt text](http://173.0.133.251/images/GitHub/USE-conversion_diag1a.png "Database Conversion")
+![Alt text](http://173.0.133.251/images/GitHub/Conversion_diag.png "Database Conversion")
 <ul>
 <li><strong>Sync</strong> - Database synchronization is the process of data uploading or mirroring between two or more databases.   There are a few scenarios you can face in this situation:</li>
 </ul>
