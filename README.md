@@ -230,7 +230,7 @@ This project includes an ACL script which leverages the new EXECUTE command in A
 2.  The software's scheduled service will also perform the conversion at a regular interval.  (See www.dbconvert.com/scheduler-configuration-manual.php for more info.)
 
 
-Modifications to the scripts may obviously be made to add your own databases' login credentials, sync and/or conversion, scheduled service interval, etc. The scripts simply illustrate how to conduct the conversion test between MS SQL database (source) and Access database (destination).  For more info, see http://dbconvert.com/faq.php
+Modifications to the scripts may obviously be made to add your own different databases' login credentials, software name and path, etc. The scripts simply illustrate an example of how to conduct a conversion between MS SQL database (source) and Access database (destination).  (For more info, see http://dbconvert.com/faq.php)
 
 
 ### THIRD-PARTY REQUIREMENTS ###
