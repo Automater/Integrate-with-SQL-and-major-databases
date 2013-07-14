@@ -1,6 +1,6 @@
 ### Integrate with SQL and Major Databases ###
 
-![Alt text](http://173.0.133.251/images/GitHub/Sync-Deployment-fulla.gif "Integrate with SQL and Major Databases")
+![Alt text](http://173.0.133.251/images/GitHub/Sync-Deployment-fulla.jpg "Integrate with SQL and Major Databases")
 
 Integrating with SQL and major databases means the ability to export data into a SQL and other major databases, performing update, backup and replication services.
 
