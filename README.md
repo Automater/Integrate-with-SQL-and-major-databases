@@ -1,6 +1,6 @@
 ### Integrate with SQL and Major Databases ###
 
-![Alt text](http://173.0.133.251/images/GitHub/Sync-Deployment-full.gif "Integrate with SQL and Major Databases")
+![Alt text](http://173.0.133.251/images/GitHub/Sync-Deployment-fulla.gif "Integrate with SQL and Major Databases")
 
 Integrating with SQL and major databases means the ability to export data into a SQL and other major databases, performing update, backup and replication services.
 
@@ -30,7 +30,7 @@ Our approach to the integration of databases uses the least effort and money i.e
 
 ### DATABASE CONVERSION / SYNCING POSSIBILITY MATRIX ###
 
-![Alt text](http://173.0.133.251/images/GitHub/synch2.gif "Integrate with Databases")
+![Alt text](http://173.0.133.251/images/GitHub/synch2a.gif "Integrate with Databases")
 
 The table below shows the different types of databases and the possible type of integration:
 
@@ -210,14 +210,14 @@ The full suite of conversion and sync tools can be found here: http://www.dbconv
 <ul>
 <li><strong>Convert</strong> - Generally, database conversion means the process of converting data stored in one format to another format.  All data from the table in source database will be totally copied to the empty table in destination database without a loss of accuracy.  See example below:</li>
 </ul>
-![Alt text](http://173.0.133.251/images/GitHub/USE-conversion_diag1.png "Database Conversion")
+![Alt text](http://173.0.133.251/images/GitHub/USE-conversion_diag1a.png "Database Conversion")
 <ul>
 <li><strong>Sync</strong> - Database synchronization is the process of data uploading or mirroring between two or more databases.   There are a few scenarios you can face in this situation:</li>
 </ul>
-![Alt text](http://173.0.133.251/images/GitHub/sync1_insert.png "Insert Database Synchronization")
-![Alt text](http://173.0.133.251/images/GitHub/sync2_update.png	"Update Synchronization")
-![Alt text](http://173.0.133.251/images/GitHub/sync3_drop.png "Drop Synchronization")
-![Alt text](http://173.0.133.251/images/GitHub/sync4_insert_update.png "Insert Synchronization, Update Synchronization and Drop Synchronization Together")
+![Alt text](http://173.0.133.251/images/GitHub/sync1_inserta.png "Insert Database Synchronization")
+![Alt text](http://173.0.133.251/images/GitHub/sync2_updatea.png	"Update Synchronization")
+![Alt text](http://173.0.133.251/images/GitHub/sync3_dropa.png "Drop Synchronization")
+![Alt text](http://173.0.133.251/images/GitHub/sync4_insert_updatea.png "Insert Synchronization, Update Synchronization and Drop Synchronization Together")
 
 
 ### TESTING APPROACH ###
