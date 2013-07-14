@@ -1,0 +1,7 @@
+@ACL1000
+^LOGFILE  Integrate_SQL_and_Databases         "" "Integrate_SQL_and_Databases.LOG"
+[PARENT_FOLDER_ID] 0
+^BATCH    Integrate_SQL_and_Databases        
+[PARENT_FOLDER_ID] 0
+EXECUTE '"C:\ACL_DATA\Integrate_SQL_and_Databases\sync.bat"' ASYNC
+^OPEN 
