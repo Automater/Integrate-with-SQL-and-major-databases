@@ -224,12 +224,13 @@ The full suite of conversion and sync tools can be found here: http://www.dbconv
 
 This project includes an ACL script which leverages the new EXECUTE command in ACL Analytics v10 to conduct database conversion between MS SQL database (source) and Access database (destination). The scripts included in the project will:
 
-<ol>
-<li>Run the DBConvert tool (i.e. external database converters and synchronizers downloaded from http://dbconvert.com/convert-access-to-mssql-sync.php) in the script "Integrate_SQL_and_Databases".</li>
-<li>Execute the DBSync software's session name for MS Access & MS SQL.  See http://dbconvert.com/faq.php for more info.</li>
-<li>Run the scheduled service of the software to perform the conversion at a regular interval.  See www.dbconvert.com/scheduler-configuration-manual.php for more info.</li>
-</ol>
-Modifications to the scripts may obviously be made to add your own databases' login credentials, sync and/or conversion, scheduled service interval, etc. The scripts simply illustrate how to conduct the conversion test between MS SQL database (source) and Access database (destination).
+1.  Run the DBConvert tool (i.e. external database converters and synchronizers downloaded from http://dbconvert.com/convert-access-to-mssql-sync.php) in the script "Integrate_SQL_and_Databases".
+![Alt text](http://173.0.133.251/images/GitHub/progress.gif "Synchronization Progress")
+
+2.  The software's scheduled service will also perform the conversion at a regular interval.  (See www.dbconvert.com/scheduler-configuration-manual.php for more info.)
+
+
+Modifications to the scripts may obviously be made to add your own databases' login credentials, sync and/or conversion, scheduled service interval, etc. The scripts simply illustrate how to conduct the conversion test between MS SQL database (source) and Access database (destination).  For more info, see http://dbconvert.com/faq.php
 
 
 ### THIRD-PARTY REQUIREMENTS ###
