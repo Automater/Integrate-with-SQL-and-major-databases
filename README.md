@@ -246,3 +246,8 @@ To learn more about DBConvert, take the video tour:
 [![IMAGE ALT TEXT HERE](http://173.0.133.251/images/GitHub/3rd-party.gif)](http://www.dbconvert.com/order.php)
 
 
+#### Methodology ####
+
+![Alt text](http://173.0.133.251/images/GitHub/use-methodology.gif "How I Work")
+
+Email me: patrickong@gmail.com
