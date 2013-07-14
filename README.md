@@ -214,10 +214,10 @@ The full suite of conversion and sync tools can be found here: http://www.dbconv
 <ul>
 <li><strong>Sync</strong> - Database synchronization is the process of data uploading or mirroring between two or more databases.   There are a few scenarios you can face in this situation:</li>
 </ul>
-![Alt text](http://173.0.133.251/images/GitHub/sync1_inserta.png "Insert Database Synchronization")
-![Alt text](http://173.0.133.251/images/GitHub/sync2_updatea.png	"Update Synchronization")
-![Alt text](http://173.0.133.251/images/GitHub/sync3_dropa.png "Drop Synchronization")
-![Alt text](http://173.0.133.251/images/GitHub/sync4_insert_updatea.png "Insert Synchronization, Update Synchronization and Drop Synchronization Together")
+![Alt text](http://173.0.133.251/images/GitHub/sync1_insert_.png "Insert Database Synchronization")
+![Alt text](http://173.0.133.251/images/GitHub/sync2_update_.png	"Update Synchronization")
+![Alt text](http://173.0.133.251/images/GitHub/sync3_drop_.png "Drop Synchronization")
+![Alt text](http://173.0.133.251/images/GitHub/sync4_insert_update_.png "Insert Synchronization, Update Synchronization and Drop Synchronization Together")
 
 
 ### TESTING APPROACH ###
