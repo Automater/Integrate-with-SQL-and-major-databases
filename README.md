@@ -250,4 +250,3 @@ To learn more about DBConvert, take the video tour:
 
 ![Alt text](http://173.0.133.251/images/GitHub/use-methodology.gif "How I Work")
 
-Email me: patrickong@gmail.com
